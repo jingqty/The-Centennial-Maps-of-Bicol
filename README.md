@@ -6,10 +6,10 @@ The maps were sourced from various online archives and digital libraries, then c
 
 
 ## 🗺️ Murillo Velarde Map (1734)
-![Murillo Velarde Map](Murillo%20Velarde%20Map%20%281734%29.jpg)
+<img src="Murillo Velarde Map (1734).jpg" alt="Murillo Velarde Map">
 
 ## 🗺️ Carte Des Iles Philippines (1846)
-![Carte Des Iles Philippines](Carte%20Des%20Iles%20Philippines%20%281846%29.jpg)
+<img src="Carte Des Iles Philippines (1846).jpg" alt="Carte Des Iles Philippines">
 
 ## 🗺️ Isla Filipinas Observatorio De Manila (1900)
-![Isla Filipinas Observatorio De Manila](Isla%20Filipinas%20Observatorio%20De%20Manila%20%281900%29.jpg)
+<img src="Isla Filipinas Observatorio De Manila (1900).jpg" alt="Isla Filipinas Observatorio De Manila">
